@@ -1,0 +1,22 @@
+{
+  "name": "ponopoyo-discord-bot",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo sub man"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jjoon0513/ponopoyo-discord-bot.git"
+  },
+  "author": "Jjoon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jjoon0513/ponopoyo-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Jjoon0513/ponopoyo-discord-bot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
