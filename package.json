@@ -2,6 +2,7 @@
   "name": "ponopoyo-discord-bot",
   "version": "0.0.1",
   "main": "main.js",
+  "type": "module",
   "scripts": {
     "start": "node main.js"
   },
